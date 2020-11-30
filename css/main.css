@@ -80,6 +80,14 @@ html {
    }
 
 }
+
+@media (prefers-color-scheme: dark) {
+
+  main {
+    background-color: #111;
+  }
+
+}
  * =============
  */
 
